@@ -1,0 +1,10 @@
+{
+  "name": "dsands/bedrock-ses-mailer",
+  "description": "WordPress must-use plugin to send email via AWS SES",
+  "type": "wordpress-muplugin",
+  "license": "GPL-3.0-or-later",
+  "require": {
+    "php": ">=8.1",
+    "composer/installers": "^2.0"
+  }
+}
